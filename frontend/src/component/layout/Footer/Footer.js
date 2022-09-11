@@ -30,7 +30,7 @@ const Footer = () => {
         
         <a href="http://facebook.com/"><img src = { fb } height="20" width="20" alt="Facebook"/> Facebook</a>
       </div>
-      </div>
+ 
     </footer>
   );
 };
