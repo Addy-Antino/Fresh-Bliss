@@ -12,22 +12,23 @@
 }
 
 .searchBox > input[type="text"] {
-  height: 8%;
-  border-radius: 0%;
-  background-color: purple;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.274);
+  background-color: white;
   border: none;
-  padding: 1vmax;
-  width: 10%;
-  font: 300 1.1vmax "Roboto";
-  cursor: pointer;
-  color: white;
-  transition: all 0.5s;
+  color: rgba(0, 0, 0, 0.637);
+  padding: 1vmax 2vmax;
+  width: 50%;
+  outline: none;
+  border-radius: 0%;
+  font: 300 1.1vmax cursive;
+  box-sizing: border-box;
+  height: 8%;
 }
 
 .searchBox > input[type="submit"] {
   height: 8%;
   border-radius: 0%;
-  background-color: tomato;
+  background-color: rgb(253, 6, 212);
   border: none;
   padding: 1vmax;
   width: 10%;
