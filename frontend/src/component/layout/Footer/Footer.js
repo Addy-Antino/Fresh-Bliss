@@ -1,6 +1,8 @@
 import React from "react";
 import playStore from "../../../images/playstore.png";
 import appStore from "../../../images/Appstore.png";
+import yt from "../../../images/yt.png"
+import fb from "../../../images/fb.jpg"
 import "./Footer.css";
 
 const Footer = () => {
@@ -17,14 +19,17 @@ const Footer = () => {
         <h1>ECOMMERCE.</h1>
         <p>High Quality is our first priority</p>
 
-        <p>Copyrights 2021 &copy; MeAbhiSingh</p>
+        <p>Copyrights 2021 &copy; Fresh Bliss</p>
       </div>
 
       <div className="rightFooter">
         <h4>Follow Us</h4>
-        <a href="http://instagram.com/meabhisingh">Instagram</a>
-        <a href="http://youtube.com/6packprogramemr">Youtube</a>
-        <a href="http://instagram.com/meabhisingh">Facebook</a>
+        <a href="http://instagram.com/"><img src = { insta } height="20" width="20" alt="Instagram"/> Instagram</a>
+        
+        <a href="http://youtube.com/"> <img src = { yt } height="20" width="20" alt="Youtube"/> Youtube</a>
+        
+        <a href="http://facebook.com/"><img src = { fb } height="20" width="20" alt="Facebook"/> Facebook</a>
+      </div>
       </div>
     </footer>
   );
