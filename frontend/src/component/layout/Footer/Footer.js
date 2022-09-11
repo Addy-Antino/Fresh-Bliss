@@ -3,6 +3,7 @@ import playStore from "../../../images/playstore.png";
 import appStore from "../../../images/Appstore.png";
 import yt from "../../../images/yt.png"
 import fb from "../../../images/fb.jpg"
+import insta from "../../../images/insta.png"
 import "./Footer.css";
 
 const Footer = () => {
