@@ -20,7 +20,7 @@ const Footer = () => {
         <h1>FRESH BLISS</h1>
         <p>𝒔𝒖𝒏𝒔𝒉𝒊𝒏𝒆 𝒊𝒏 𝒂 𝒗𝒂𝒔𝒆</p>
 
-        <p>𝑪𝒐𝒑𝒚𝒓𝒊𝒈𝒉𝒕𝒔 2022 ©  &copy; 𝑨𝒅𝒊𝒕𝒚𝒂𝒓𝒖𝒑 𝑫𝒂𝒕𝒕𝒂</p>
+        <p>𝑪𝒐𝒑𝒚𝒓𝒊𝒈𝒉𝒕𝒔 2022  &copy; 𝑨𝒅𝒊𝒕𝒚𝒂𝒓𝒖𝒑 𝑫𝒂𝒕𝒕𝒂</p>
       </div>
 
       <div className="rightFooter">
