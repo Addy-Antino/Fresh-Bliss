@@ -11,10 +11,10 @@ import Typography from "@material-ui/core/Typography";
 import MetaData from "../layout/MetaData";
 
 const categories = [
-  "Decors",
+    "Decors",
   "Flowers",
   "bokeh",
-  "gits",
+  "gifts",
   "room decors",
   "Paint",
   "Stickers",
