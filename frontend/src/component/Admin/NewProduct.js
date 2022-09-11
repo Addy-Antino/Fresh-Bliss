@@ -31,7 +31,7 @@ const NewProduct = ({ history }) => {
     "Decors",
   "Flowers",
   "bokeh",
-  "gits",
+  "gifts",
   "room decors",
   "Paint",
   "Stickers",
