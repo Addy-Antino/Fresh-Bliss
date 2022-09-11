@@ -25,11 +25,11 @@ const Footer = () => {
 
       <div className="rightFooter">
         <h4>Follow Us</h4>
-        <a href="http://instagram.com/"><img src = { insta } height="20" width="20" alt="Instagram"/> Instagram</a>
+        <a href="https://www.instagram.com/sunshine_in_vase/"><img src = { insta } height="20" width="20" alt="Instagram"/> Instagram</a>
         
-        <a href="http://youtube.com/"> <img src = { yt } height="20" width="20" alt="Youtube"/> Youtube</a>
+        <a href="https://www.youtube.com/channel/UCgBOcZWVnbEntPrhO4BQhlQ"> <img src = { yt } height="20" width="20" alt="Youtube"/> Youtube</a>
         
-        <a href="http://facebook.com/"><img src = { fb } height="20" width="20" alt="Facebook"/> Facebook</a>
+        <a href="https://www.facebook.com/profile.php?id=100085652589002"><img src = { fb } height="20" width="20" alt="Facebook"/> Facebook</a>
       </div>
  
     </footer>
